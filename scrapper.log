@@ -5386,3 +5386,53 @@ INFO:root:log my final result []
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "POST /review HTTP/1.1" 200 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 460-038-062
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 460-038-062
+INFO:werkzeug:172.18.0.45 - - [30/Jul/2023 12:55:12] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:172.18.0.45 - - [30/Jul/2023 12:55:13] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:172.18.0.45 - - [30/Jul/2023 12:55:13] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'redmi', 'Name': 'Dinesh ', 'Rating': '4', 'CommentHead': 'Pretty good', 'Comment': 'Good product under this price. But purchase 128gb storage.'}, {'Product': 'redmi', 'Name': 'Avinash  Jagnani', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': "It's a perfect mid range device with a powerful chipset, a great battery, very bright lit screen, good camera and built quality is superb.It's a winner at this price.🌟 🌟 🌟 🌟 🌟 Product"}, {'Product': 'redmi', 'Name': 'Siddhi Gupta', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Good ☺️☺️'}, {'Product': 'redmi', 'Name': 'Naresh Yogi', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Nice product  I am very happy .and satisfied for Flipkart service.thanks'}, {'Product': 'redmi', 'Name': 'Priya Raj', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': 'Suppr mobile'}, {'Product': 'redmi', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Nice product'}, {'Product': 'redmi', 'Name': 'Rohit Singh', 'Rating': '3', 'CommentHead': 'Just okay', 'Comment': 'Value of money'}, {'Product': 'redmi', 'Name': 'Flipkart Customer', 'Rating': '1', 'CommentHead': 'Terrible product', 'Comment': 'Wrost mobile. There is no replacement technician always reject it. No camera quality, automatically rebooting, frequent restart, charging slow, heating to much. Very bad product flipkart service is very bad.'}, {'Product': 'redmi', 'Name': 'Neeraj Singh', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Nice 👏👏👏'}, {'Product': 'redmi', 'Name': 'Shouvik Karmakar', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'A really nice product. Decently powerful for gaming. Also battery backup is good. Camera is also good for good lighting conditions.'}, {'Product': 'redmi', 'Name': 'Shouvik Karmakar', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'A really nice product. Decently powerful for gaming. Also battery backup is good. Camera is also good for good lighting conditions.'}]
+INFO:werkzeug:172.18.0.45 - - [30/Jul/2023 12:55:21] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:172.18.0.45 - - [30/Jul/2023 12:55:21] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 460-038-062
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 460-038-062
+INFO:werkzeug:172.18.0.45 - - [30/Jul/2023 12:57:35] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'lgac', 'Name': 'Flipkart Customer', 'Rating': '1', 'CommentHead': 'Did not meet expectations', 'Comment': "When installation talk very rudely talk to me installation person. Then I don't install with that person."}, {'Product': 'lgac', 'Name': 'nitin  malik', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Best cooling capacity of this product'}, {'Product': 'lgac', 'Name': 'AMIT KUMAR RAJ', 'Rating': '1', 'CommentHead': "Don't waste your money", 'Comment': 'Flipcard did not provide any help for installation.  My product installation happened.  After 10 days and he was found to be defective and remained closed for about 1 month.  After that I am giving this review.'}, {'Product': 'lgac', 'Name': 'Flipkart Customer', 'Rating': '1', 'CommentHead': 'Absolute rubbish!', 'Comment': 'WORST INSTALLATION EXPERIENCE BY TABREZ NEVER EXPECTED THIS MUCH EBEN WE ARE PAYING FOR THE WORK THE WAY OF TALKING IS VERY WRONG PANASONIC PLEASE LOOK INTO THIS'}, {'Product': 'lgac', 'Name': 'Yash Todekar', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Good and fast delivery, features loaded AC, best in category and budget friendly 😍'}, {'Product': 'lgac', 'Name': 'SONI PINAL H', 'Rating': '1', 'CommentHead': 'Utterly Disappointed', 'Comment': 'PLS GUYS NEVER EVER BUY IT ON FLIPKART.....THAY ARE CHEATERS.....PIPING SET WAS NOT GIVEN TO ME.....IM CALLING CC SINCE 15 DAYS &THEY DONT GIVE CLEAR ANS & REFUND OF SAME...............................'}, {'Product': 'lgac', 'Name': 'sumit  yadav', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': "Very good one, Chills my 120 Square feet room very quickly. Noise level is in very acceptable range no issue for me and also it's energy efficient . For 2 hours continuous run consume only 1 unit . Just for installation it cost around 4500 extra for costlier equipment by Panasonic . except high installation charges overall product is 5 out of 5 . Loved it"}, {'Product': 'lgac', 'Name': 'parthiban gokul', 'Rating': '4', 'CommentHead': 'Value-for-money', 'Comment': 'It was an excellent ac for 150 sqft room. Cooling was quick. ONE THING IS, IT HAS A SMALL DISPLAY AT RIGHT SIDE. Other brands provided big display at center of indoor unit. But fine. I have added a meter along with ac to check power consumption. I found that the ac will consume 1300watt for first 5 min when the colling starts, then it will consume 400watt when the colling reduces, if the room temperature reaches 24c. Which I usually keep. It will consume 40w continuously for swing and fan a...'}, {'Product': 'lgac', 'Name': 'Santanu Mahata', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': "Delivery was smooth within 5 Days . The day i got the delivery installation happened in the same day which i thought would take 48 hrs more to complete. Installation was good hope Panasonic makes it much more better service in later future. Installation cost is bit high for me. Otherwise overall experience is pretty good and it's a smart ac with wifi enabled which can be controlled via MirAle application or Alexa,Google Mini."}, {'Product': 'lgac', 'Name': 'Alish Chauhan', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Excellent cooling, minimal noise, and amazing energy efficiency. Would definitely recommend this. Best option to choose in this price range.'}, {'Product': 'lgac', 'Name': 'Alish Chauhan', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Excellent cooling, minimal noise, and amazing energy efficiency. Would definitely recommend this. Best option to choose in this price range.'}]
+INFO:werkzeug:172.18.0.45 - - [30/Jul/2023 12:57:43] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:172.18.0.45 - - [30/Jul/2023 12:57:44] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:No Comment Heading
+INFO:root:local variable 'name' referenced before assignment
+INFO:werkzeug:172.18.0.45 - - [30/Jul/2023 12:58:23] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:172.18.0.45 - - [30/Jul/2023 12:58:29] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'realme3', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': "excellent camera good performance battery backup superb while charging little heating but no problem it's not a issue very good mobile. I recommend to buy..."}, {'Product': 'realme3', 'Name': 'DEEPA  DAS ', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'camera is good,Denver is awesome,no hitting issue, good battery backup, overall a good mobile phone in this range.'}, {'Product': 'realme3', 'Name': 'SOURAV  KUNDU ', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': "it's just woosome ????"}, {'Product': 'realme3', 'Name': 'Mr. Jay Kumar Gour', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'superb'}, {'Product': 'realme3', 'Name': 'NURE ALAM', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'very nice😍😍'}, {'Product': 'realme3', 'Name': 'Dharmendra Sardhar', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'supar'}, {'Product': 'realme3', 'Name': 'sanjib  manna', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'this is good phone...'}, {'Product': 'realme3', 'Name': 'Sayeda Noori Nargis', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'superb photo like dslr so happy...'}, {'Product': 'realme3', 'Name': 'Nishant Haralkar', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'best mobile. best delivery ever thanks Flipkart'}, {'Product': 'realme3', 'Name': 'Anuj kushwaha', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'very nice phone'}, {'Product': 'realme3', 'Name': 'Anuj kushwaha', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'very nice phone'}]
+INFO:werkzeug:172.18.0.45 - - [30/Jul/2023 12:58:45] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:172.18.0.45 - - [30/Jul/2023 12:58:45] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [30/Jul/2023 13:02:28] "[37mGET /review HTTP/1.1[0m" 200 -
